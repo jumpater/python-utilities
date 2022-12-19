@@ -38,5 +38,5 @@ def getDuplicatedComb(itr , num :int,distinct: bool =True) -> list:
             combs.append(comb)
     return combs
 
-print(len(getCombination([1,2,3,4,5,6,7,8,9,10],6)))
+# print(len(getCombination([1,2,3,4,5,6,7,8,9,10],6)))
             
